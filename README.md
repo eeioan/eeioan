@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Chumakov Ivan, right now im student of ITMO University
+My speciality is Computer Science -> Data Science, now i learning a lot of math, Py and Java
 <!--
 **eeioan/eeioan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
